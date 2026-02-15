@@ -101,12 +101,6 @@ EngineDataProcessingApplication/
 │   │   │   │   ├── 📄 JobCompletionNotificationListener.java # Listener del Job
 │   │   │   │   │   ├── beforeJob() - Inicio del procesamiento
 │   │   │   │   │   └── afterJob() - Estadísticas finales
-│   │   │   │   │
-│   │   │   │   ├── 📄 StepListener.java                      # Listener del Step
-│   │   │   │   │   └── Estadísticas por step
-│   │   │   │   │
-│   │   │   │   └── 📄 ManualBatchRunner.java                 # Runner para debug
-│   │   │   │       └── Ejecución manual con diagnóstico
 │   │   │   │
 │   │   │   ├── 📁 processor/
 │   │   │   │   └── 📄 TransactionProcessor.java              # Lógica de procesamiento
@@ -137,14 +131,6 @@ EngineDataProcessingApplication/
 │   └── test/
 │       └── 📁 java/com/andres_cmk/EngineDataProcessingApplication/
 │           └── 📄 EngineDataProcessingApplicationTests.java  # Tests unitarios
-│
-├── 📁 target/                           # Carpeta de compilación (generada)
-│
-├── 📄 HELP.md                           # Ayuda de Spring Boot
-├── 📄 SOLUCION_BATCH.md                 # Guía de solución de problemas
-├── 📄 MEDICION_TIEMPO_EXPLICACION.md    # Explicación de medición de tiempo
-├── 📄 clean_batch_tables.sql            # Script SQL para limpiar tablas batch
-└── 📄 diagnostico.ps1                   # Script de diagnóstico (PowerShell)
 ```
 
 ---
