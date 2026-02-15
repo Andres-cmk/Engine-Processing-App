@@ -20,9 +20,8 @@ public class JobRunner implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        System.out.println("⚡ INICIANDO EJECUCIÓN MANUAL CON ID ÚNICO ⚡");
+        System.out.println("INICIANDO EJECUCIÓN MANUAL CON ID ÚNICO");
 
-        // Aquí está el truco: Agregamos el tiempo actual como parámetro
         JobParameters jobParameters = new JobParametersBuilder()
                 .addLong("inicio", System.currentTimeMillis())
                 .toJobParameters();
