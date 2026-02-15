@@ -17,8 +17,6 @@ Una aplicación **Spring Boot** para procesamiento masivo y eficiente de datos d
 - [Arquitectura](#arquitectura)
 - [Performance](#performance)
 - [Logs y Monitoreo](#logs-y-monitoreo)
-- [Solución de Problemas](#solución-de-problemas)
-- [Contribución](#contribución)
 
 ---
 
