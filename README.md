@@ -6,17 +6,17 @@ Una aplicación **Spring Boot** para procesamiento masivo y eficiente de datos d
 
 ## 📋 Tabla de Contenidos
 
-- [Descripción General](#descripción-general)
+- [Descripción General]
 - [Características](#características)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
-- [Configuración](#configuración)
-- [Uso](#uso)
-- [Herramientas y Tecnologías](#herramientas-y-tecnologías)
-- [Arquitectura](#arquitectura)
-- [Performance](#performance)
-- [Logs y Monitoreo](#logs-y-monitoreo)
+- [Estructura del Proyecto]
+- [Requisitos Previos]
+- [Instalación]
+- [Configuración]
+- [Uso]
+- [Herramientas y Tecnologías]
+- [Arquitectura]
+- [Performance]
+- [Logs y Monitoreo]
 
 ---
 
@@ -766,15 +766,6 @@ logging.level.org.springframework.batch=DEBUG  // Solo info crítica
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 - [Ejemplo de Parallel Processing con Spring Batch](https://docs.spring.io/spring-batch/reference/scalability.html)
 - [Virtual Threads, Traditional Threads, and Executors in Java](https://medium.com/@samuelgbenga972/virtual-threads-traditional-threads-and-executors-in-java-a7fd716dc082)
-
----
-
-## 📞 Soporte
-
-Para reportar problemas o sugerencias:
-- Crear un Issue en el repositorio
-- Contactar al desarrollador
-- Revisar la carpeta de documentación
 
 ---
 
