@@ -767,6 +767,7 @@ logging.level.org.springframework.batch=DEBUG  // Solo info crítica
 - [Spring Data JPA Documentation](https://spring.io/projects/spring-data-jpa)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 - [Ejemplo de Parallel Processing con Spring Batch](https://docs.spring.io/spring-batch/reference/scalability.html)
+- [Virtual Threads, Traditional Threads, and Executors in Java](https://medium.com/@samuelgbenga972/virtual-threads-traditional-threads-and-executors-in-java-a7fd716dc082)
 
 ---
 
