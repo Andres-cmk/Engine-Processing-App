@@ -6,17 +6,17 @@ Una aplicación **Spring Boot** para procesamiento masivo y eficiente de datos d
 
 ## 📋 Tabla de Contenidos
 
-- [Descripción General]
-- [Características](#características)
-- [Estructura del Proyecto]
-- [Requisitos Previos]
-- [Instalación]
-- [Configuración]
-- [Uso]
-- [Herramientas y Tecnologías]
-- [Arquitectura]
-- [Performance]
-- [Logs y Monitoreo]
+- Descripción General
+- Características
+- Estructura del Proyecto
+- Requisitos Previos
+- Instalación
+- Configuración
+- Uso
+- Herramientas y Tecnologías
+- Arquitectura
+- Performance
+- Logs y Monitoreo
 
 ---
 
